@@ -1,7 +1,7 @@
 # Organize-Media-in-Linux
 Organizing media in linux according to modified date.
 
-Then resize picture that has width more than 1024px.
+Then resize picture that has width more than 1024px. (Need ImageMagick)
 
 <h3>usage</h3>
 
