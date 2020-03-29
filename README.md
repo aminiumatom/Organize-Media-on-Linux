@@ -1,5 +1,5 @@
-# Organize-Media-in-Linux
-Organizing media in linux according to modified date.
+# Organize-Media-on-Linux
+Organizing media on linux according to modified date.
 
 Then resize picture that has width more than 1024px. (Need ImageMagick)
 
